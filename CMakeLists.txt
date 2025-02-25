@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(3_The_longest_substring_of_non_repeating_characters_c___version_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(3_The_longest_substring_of_non_repeating_characters_c___version_ main.cpp)
